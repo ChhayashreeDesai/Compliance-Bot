@@ -46,7 +46,7 @@ Audit-AI/
 - **Frontend**: Streamlit (Python web framework)
 - **Backend**: Python 3.x with Selenium for web automation
 - **Browser Automation**: Microsoft Edge WebDriver
-- **Styling**: Custom CSS with forest color palette
+- **Styling**: Custom CSS with attractive color palette
 - **Typography**: Lora serif font (Google Fonts)
 
 ## Quick Start
@@ -234,3 +234,4 @@ For issues, questions, or suggestions:
 ---
 
 Built with ❤️ for data protection compliance
+
